@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 background: #fff;
 color: #434455; 
 }
@@ -7,7 +7,7 @@ color: #434455;
 <!--Logo-->
 
 .logo {
-    font-family: "Raleway", sans-serif;
+font-family: "Raleway", sans-serif;
 text-decoration: none;
 font-weight: 700;
 font-size: 18px;
@@ -22,29 +22,27 @@ text-transform: uppercase;
 
 
 .studio-logo {
-    color: #2e2f42; 
+color: #2e2f42; 
 }
 
 <!--header-->
 
 .header-list {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    
-    /* line-height: 24px; */ 
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-transform: uppercase;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #2e2f42;
+text-transform: uppercase;
 }
 
 .header-list:hover {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
 font-size: 16px;
 
-/* line-height: 24px; */ 
+
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
@@ -59,8 +57,8 @@ list-style-type: none;
 <!--adress-->
 
 .adress {
-    font-style: normal;
-    text-transform: uppercase;
+font-style: normal;
+text-transform: uppercase;
 }
 
 .address-email {
@@ -68,22 +66,19 @@ font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
 .address-email.focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .address-email:hover {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
 font-size: 16px;
-
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
@@ -93,23 +88,19 @@ color: #404bbf;
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
 .address-tel {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .address-tel:hover {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
 font-size: 16px;
-
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
@@ -119,56 +110,47 @@ color: #404bbf;
 
 
 .header-title {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .title {
 
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 56px;
-    
-    /* line-height: 60px; */ 
-    line-height: 107%;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
-    
-    background: #2e2f42;
-    }
-    
-    <!--btn-->
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+background: #2e2f42;
+}
+
+<!--btn-->
 
 
 .button {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    
-    /* line-height: 24px; */ 
-    line-height: 150%;
-    letter-spacing: 0.04em;
-    color: #fff;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #fff;
 
 background: #4d5ae5;
 }
 
 .button:focus {
-    background-color: #404bbf;
-    cursor: pointer;
+background-color: #404bbf;
+cursor: pointer;
 }
 
 .button:hover {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    
-    /* line-height: 24px; */ 
-    line-height: 150%;
-    letter-spacing: 0.04em;
-    color: #fff;
-
-/* line-height: 24px; */ 
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #fff;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #404bbf;
@@ -180,7 +162,7 @@ background: #404bbf;
 <!--assets-->
 
 .visually-hidden {
-    /*...*/
+
 
 }
 
@@ -188,8 +170,6 @@ background: #404bbf;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
-
-/* line-height: 24px; */ 
 line-height: 120%;
 letter-spacing: 0.02em;
 color: #2e2f42;
@@ -199,8 +179,6 @@ color: #2e2f42;
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
@@ -209,14 +187,12 @@ color: #434455;
 <!--team-->
 
 .team {
-    background-color: #f4f4fd;
+background-color: #f4f4fd;
 }
 .our-team {
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
-
-/* line-height: 40px; */ 
 line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
@@ -225,14 +201,13 @@ color: #2e2f42;
 }
 
 .team-list {
-    background-color: #ffffff;
+background-color: #ffffff;
 }
 .our-team-name {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
-    
- /* line-height: 24px; */ 
+
 line-height: 120%;
 letter-spacing: 0.02em;
 text-align: center;
@@ -245,7 +220,7 @@ font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 
-/* line-height: 24px; */ 
+
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
@@ -258,8 +233,6 @@ color: #434455;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
-
-/* line-height: 40px; */ 
 line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
@@ -271,8 +244,6 @@ text-transform: capitalize;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
-
-/* line-height: 24px; */ 
 line-height: 120%;
 letter-spacing: 0.02em;
 color: #2e2f42;
@@ -282,8 +253,6 @@ color: #2e2f42;
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-
-/* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
@@ -292,19 +261,17 @@ color: #434455;
 <!--footer-->
 
 .footer {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .footer-logo {
-    color:#f4f4fd;
+color:#f4f4fd;
 }
 
 .logo-footer {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
+font-family: "Raleway", sans-serif;
+font-weight: 700;
 font-size: 18px;
-
-/* line-height: 21px; */ 
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
