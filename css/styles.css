@@ -4,15 +4,13 @@ background: #fff;
 color: #434455; 
 }
 
-<!--Logo-->
+/*Logo*/
 
 .logo {
 font-family: "Raleway", sans-serif;
 text-decoration: none;
 font-weight: 700;
 font-size: 18px;
-
-/* line-height: 21px; */ 
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
@@ -25,7 +23,7 @@ text-transform: uppercase;
 color: #2e2f42; 
 }
 
-<!--header-->
+/*header*/
 
 .header-list {
 font-family: "Roboto", sans-serif;
@@ -54,7 +52,7 @@ li {
 list-style-type: none;
 } 
 
-<!--adress-->
+/*adress*/
 
 .adress {
 font-style: normal;
@@ -106,7 +104,7 @@ letter-spacing: 0.02em;
 color: #404bbf;
 }
 
-<!--title-->
+/*title*/
 
 
 .header-title {
@@ -125,7 +123,7 @@ color: #fff;
 background: #2e2f42;
 }
 
-<!--btn-->
+/*btn*/
 
 
 .button {
@@ -159,12 +157,9 @@ color: #404bbf;
 background: #404bbf;
 }
 
-<!--assets-->
-
-.visually-hidden {
+/*assets*/
 
 
-}
 
 .assets-title {
 font-family: "Roboto", sans-serif;
@@ -184,7 +179,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--team-->
+/*team*/
 
 .team {
 background-color: #f4f4fd;
@@ -227,7 +222,7 @@ text-align: center;
 color: #434455;
 }
 
-<!--portfolio-->
+/*portfolio*/
 
 .our-portfolio {
 font-family: "Roboto", sans-serif;
@@ -258,9 +253,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-<!--footer-->
+/*footer*/
 
-.footer {
+.footer-box {
 background-color: #2e2f42;
 }
 
@@ -277,4 +272,5 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 text-transform: uppercase;
+text-decoration: none;
 }
