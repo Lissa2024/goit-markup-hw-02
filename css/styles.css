@@ -33,6 +33,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #2e2f42;
 text-transform: uppercase;
+text-decoration: none;
 }
 
 .header-list:hover {
@@ -61,20 +62,21 @@ font-style: normal;
 text-transform: uppercase;
 }
 
-.address-email {
+.address-list {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
+text-decoration: none;
 }
 
-.address-email:focus {
+.address-list:focus {
 color: #404bbf;
 }
 
-.address-email:hover {
+.address-list:hover {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
@@ -83,27 +85,6 @@ letter-spacing: 0.02em;
 color: #404bbf;
 }
 
-.address-tel {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-.address-tel:focus {
-color: #404bbf;
-}
-
-.address-tel:hover {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.02em;
-color: #404bbf;
-}
 
 /*title*/
 
